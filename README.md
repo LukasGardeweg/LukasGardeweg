@@ -1,5 +1,5 @@
 <div align="center">
-## Lukas Gardeweg
+<h2>Lukas Gardeweg</h2>
  
 **Sports Scientist · Researcher · Data Enthusiast**
  
