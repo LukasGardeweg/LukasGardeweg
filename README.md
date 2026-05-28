@@ -1,5 +1,4 @@
 <div align="center">
-# Hi, I'm Lukas Gardeweg 👋
  
 **Sports Scientist · Researcher · Data Enthusiast**
  
@@ -7,19 +6,16 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-gardeweg-8aba91270/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lukas-Gardeweg-2)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LukasGardeweg)
  
 </div>
 ---
  
 ## 🏋️ About Me
  
-I'm a sports scientist at the **Deutsche Sporthochschule Köln**, one of Europe's leading sports universities. My work sits at the intersection of **sports science research** and **data-driven methods** — combining rigorous academic inquiry with modern analytical tools.
- 
 - 🎓 Based at **Deutsche Sporthochschule Köln**
 - 🔬 Passionate about **sports science research** and evidence-based performance insights
 - 📊 Using data analysis to make sport smarter
-- 🤝 Open to collaborations in sports science, performance analytics, and research projects
+- 🤝 Open to collaborations in sports science, performance analytics and research projects
 ---
  
 ## 🛠️ Tools & Technologies
