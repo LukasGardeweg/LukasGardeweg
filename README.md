@@ -1,14 +1,12 @@
 <div align="center">
- 
+***Lukas Gardeweg***
 **Sports Scientist · Researcher · Data Enthusiast**
  
-*Deutsche Sporthochschule Köln (German Sport University Cologne)*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-gardeweg-8aba91270/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lukas-Gardeweg-2)
- 
+
 </div>
----
  
 ## 🏋️ About Me
  
@@ -16,27 +14,25 @@
 - 🔬 Passionate about **sports science research** and evidence-based performance insights
 - 📊 Using data analysis to make sport smarter
 - 🤝 Open to collaborations in sports science, performance analytics and research projects
----
+
  
 ## 🛠️ Tools & Technologies
  
-<div align="center">
+<div align= "left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </div>
----
+
  
 ## 🔬 Research Interests
  
 - **Performance Analytics** — quantifying athletic performance through data
 - **Sports Technology** — wearables, sensor data, and digital tools in sport
 - **Statistical Modelling** — applying robust methods to sports science questions
----
+
  
-<div align="center">
- 
+<div align= "left">
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LukasGardeweg.LukasGardeweg)
- 
 </div>
